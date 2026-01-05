@@ -1,0 +1,28 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="og-bg" x1="0" y1="0" x2="1200" y2="630" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1020"/>
+      <stop offset="1" stop-color="#0A162E"/>
+    </linearGradient>
+    <linearGradient id="og-accent" x1="180" y1="100" x2="1020" y2="520" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#818CF8" stop-opacity="0.9"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#og-bg)"/>
+  <rect x="80" y="70" width="1040" height="490" rx="40" fill="#0C1429" stroke="#1F2937" stroke-width="2" stroke-opacity="0.35"/>
+  <rect x="110" y="120" width="980" height="390" rx="32" fill="#0D1A31" stroke="#22D3EE" stroke-opacity="0.25" stroke-width="2"/>
+  <path d="M180 250 C360 170 540 170 720 250 C900 330 1080 330 960 250" stroke="url(#og-accent)" stroke-width="14" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>
+  <circle cx="260" cy="250" r="14" fill="#22D3EE"/>
+  <circle cx="560" cy="250" r="14" fill="#22D3EE"/>
+  <circle cx="860" cy="250" r="14" fill="#22D3EE"/>
+  <circle cx="460" cy="210" r="10" fill="#818CF8"/>
+  <circle cx="720" cy="290" r="10" fill="#818CF8"/>
+  <text x="200" y="190" fill="#CFFAFE" font-family="'Inter', 'Segoe UI', system-ui" font-size="18" font-weight="700" letter-spacing="0.28em">LAUNCH WEEK</text>
+  <text x="200" y="360" fill="#E0F2FE" font-family="'Inter', 'Segoe UI', system-ui" font-size="48" font-weight="800">7-day community + conversion sprint</text>
+  <text x="200" y="410" fill="#94A3B8" font-family="'Inter', 'Segoe UI', system-ui" font-size="24" font-weight="600">Peak Day War-Room for presale, IDO, TGE</text>
+  <rect x="200" y="440" width="260" height="46" rx="23" fill="#111827" stroke="#22D3EE" stroke-width="2" stroke-opacity="0.6"/>
+  <rect x="480" y="440" width="240" height="46" rx="23" fill="#111827" stroke="#22D3EE" stroke-width="2" stroke-opacity="0.4"/>
+  <text x="220" y="470" fill="#A5F3FC" font-family="'Inter', 'Segoe UI', system-ui" font-size="18" font-weight="700">Book a 20-min call</text>
+  <text x="500" y="470" fill="#A5F3FC" font-family="'Inter', 'Segoe UI', system-ui" font-size="18" font-weight="700">Download launch deck</text>
+</svg>

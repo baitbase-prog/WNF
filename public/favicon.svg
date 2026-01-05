@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Launch Week logo">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7C3AED" />
+      <stop offset="50%" stop-color="#06B6D4" />
+      <stop offset="100%" stop-color="#10B981" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="12" fill="#0B0B12" />
+  <rect x="4" y="4" width="56" height="56" rx="10" fill="url(#grad)" opacity="0.2" />
+  <g fill="none" stroke="url(#grad)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M20 42V22l12 8 12-8v20" />
+    <path d="M20 42h24" />
+  </g>
+  <text x="32" y="36" text-anchor="middle" font-family="Inter, system-ui, -apple-system, sans-serif" font-size="16" font-weight="700" fill="#E2E8F0" letter-spacing="1">
+    LW
+  </text>
+</svg>

@@ -1,0 +1,40 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="800" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0A0F1F"/>
+      <stop offset="1" stop-color="#0B1730"/>
+    </linearGradient>
+    <linearGradient id="pulse" x1="200" y1="80" x2="980" y2="720" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#818CF8" stop-opacity="0.8"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(600 360) rotate(90) scale(360 520)">
+      <stop stop-color="#22D3EE" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#0A0F1F" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <circle cx="320" cy="260" r="140" fill="#0F1B36" opacity="0.5"/>
+  <circle cx="880" cy="520" r="180" fill="#0F1B36" opacity="0.4"/>
+  <rect x="200" y="140" width="800" height="520" rx="48" fill="#0C1326" stroke="#1E293B" stroke-opacity="0.4" stroke-width="2"/>
+  <rect x="230" y="180" width="740" height="440" rx="36" fill="#0D172D" stroke="#22D3EE" stroke-opacity="0.35" stroke-width="2"/>
+  <rect x="260" y="220" width="120" height="32" rx="16" fill="#0F1F3F"/>
+  <rect x="390" y="220" width="220" height="32" rx="16" fill="#0F1F3F"/>
+  <rect x="620" y="220" width="210" height="32" rx="16" fill="#0F1F3F"/>
+  <rect x="260" y="480" width="680" height="100" rx="24" fill="#0F1F3F" stroke="#22D3EE" stroke-opacity="0.25"/>
+  <path d="M320 420 C420 360 520 360 620 420 C720 480 820 480 920 420" stroke="url(#pulse)" stroke-width="12" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>
+  <circle cx="320" cy="420" r="10" fill="#22D3EE"/>
+  <circle cx="620" cy="420" r="10" fill="#22D3EE"/>
+  <circle cx="920" cy="420" r="10" fill="#22D3EE"/>
+  <circle cx="520" cy="380" r="8" fill="#818CF8"/>
+  <circle cx="720" cy="460" r="8" fill="#818CF8"/>
+  <rect x="320" y="510" width="160" height="32" rx="16" fill="#1E293B"/>
+  <rect x="520" y="510" width="180" height="32" rx="16" fill="#1E293B"/>
+  <rect x="730" y="510" width="150" height="32" rx="16" fill="#1E293B"/>
+  <circle cx="600" cy="400" r="340" fill="url(#glow)"/>
+  <text x="280" y="330" fill="#E0F2FE" font-family="'Inter', 'Segoe UI', system-ui" font-size="42" font-weight="700">7-day community + conversion sprint</text>
+  <text x="280" y="380" fill="#94A3B8" font-family="'Inter', 'Segoe UI', system-ui" font-size="22" font-weight="500">Peak Day War-Room for presale, IDO, TGE</text>
+  <text x="320" y="555" fill="#CFFAFE" font-family="'Inter', 'Segoe UI', system-ui" font-size="18" font-weight="600">Narrative</text>
+  <text x="540" y="555" fill="#CFFAFE" font-family="'Inter', 'Segoe UI', system-ui" font-size="18" font-weight="600">Content + Quests</text>
+  <text x="760" y="555" fill="#CFFAFE" font-family="'Inter', 'Segoe UI', system-ui" font-size="18" font-weight="600">Distribution + KPIs</text>
+</svg>
